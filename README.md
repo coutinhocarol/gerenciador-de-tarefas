@@ -25,7 +25,7 @@ Um aplicativo web de gerenciamento de tarefas desenvolvido com React e Tailwind 
 1. Clone o repositório:
 
 ```bash
-git clone [url-do-seu-repositorio]
+git clone https://github.com/coutinhocarol/gerenciador-de-tarefas.git
 ```
 
 2. Instale as dependências:
